@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773568791737",
+    "firebase_url": "https://aplikasi-tambah-gambar.firebaseio.com",
+    "project_id": "aplikasi-tambah-gambar",
+    "storage_bucket": "aplikasi-tambah-gambar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773568791737:android:5014ebcf502f35bd1d8768",
+        "android_client_info": {
+          "package_name": "id.rafif.tambahgambarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773568791737-03ba6ot5qvabmv8e6lle28tvf0b2b5kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.rafif.tambahgambarapp",
+            "certificate_hash": "5713910aaea2dd2d331476e1bebf316dada104ce"
+          }
+        },
+        {
+          "client_id": "773568791737-k733iqukd8i7l00f3jrgk60slhbnihjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6TI2q82BirJsJJWlJ1xI_XTry3XZrOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773568791737-k733iqukd8i7l00f3jrgk60slhbnihjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
